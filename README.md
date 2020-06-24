@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img width="250px" src=".github/assets/preview.png">
+<img width="850px" src=".github/assets/preview.png">
 
 ## Getting Started
 
