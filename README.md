@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-[<img width="250px" src=".github/assets/preview.png">]
-(https://www.uplabs.com/adarshg)
-
+<img width="250px" src=".github/assets/.png">
 
 ## Getting Started
 
