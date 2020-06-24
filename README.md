@@ -7,6 +7,8 @@ Application aimed at controlling smart homes.
 <a href="https://www.uplabs.com/adarshg" target="_blank">
     <img width="850px" src=".github/assets/preview.png">
 </a>
+
+<br>
 <a href="https://www.uplabs.com/adarshg">Designed by Adarsh Goldar</a>
 
 Putting into practice the creation of a more elaborate layout.
