@@ -1,8 +1,17 @@
-# smart_home_design
+# smart_home_design_Flutter
 
-A new Flutter project.
+Putting into practice the creation of a more elaborate layout.
 
-<img width="850px" src=".github/assets/preview.png">
+Application aimed at controlling smart homes.
+
+<a href="https://www.uplabs.com/adarshg" target="_blank">
+    <img width="850px" src=".github/assets/preview.png">
+</a>
+<a href="https://www.uplabs.com/adarshg">Designed by Adarsh Goldar</a>
+
+Putting into practice the creation of a more elaborate layout.
+
+Application aimed at controlling smart homes.
 
 ## Getting Started
 
