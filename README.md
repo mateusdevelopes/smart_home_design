@@ -11,10 +11,6 @@ Application aimed at controlling smart homes.
 <br>
 <a href="https://www.uplabs.com/adarshg">Designed by Adarsh Goldar</a>
 
-Putting into practice the creation of a more elaborate layout.
-
-Application aimed at controlling smart homes.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
