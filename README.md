@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+[<img width="250px" src=".github/assets/preview.png">]
+(https://www.uplabs.com/adarshg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
